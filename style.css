@@ -1,0 +1,12 @@
+/* 
+Project 2 - CSS styling and visual design
+Water District Customer Portal 
+*/
+
+/* body styles the entire page*/
+body {
+  font-family: Arial, sans-serif;
+  background-color: #3a9090;
+  color: #FFFFFF;
+  padding: 30px;
+}
