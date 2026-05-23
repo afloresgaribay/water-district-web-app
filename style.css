@@ -43,9 +43,16 @@ p {
 
 /* table style the water usage history table */
 table { 
-  color: #A3AABE;
   width: 100%;
   border-collapse: collapse;
   margin-top: 10px;
+}
+
+/* th styles the header of the cells */
+th {
+  background-color: #0F2137;
+  color: #A3AABE;
+  padding: 10px;
+  text-align: left;
 }
 
