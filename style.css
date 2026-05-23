@@ -20,8 +20,19 @@ h1 {
   margin-bottom: 20px; 
 }
 
+/* h2 styles section headings */
 h2 { 
 font-size: 16px;
 margin-top: 30px;
 margin-bottom: 10px;
 }
+
+/* p styles paragraph text */
+p {
+  background-color: #FFFFFF;
+  border-radius: 20px;
+  font-size: 12px;
+  margin-bottom: 8px;
+}
+
+
