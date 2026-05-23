@@ -30,6 +30,7 @@ margin-bottom: 10px;
 /* div styles grouped sections */
 div {
   background-color: #FFFFFF;
+  width: 50%;
   border-radius: 25px;
   padding: 30px;
 }
@@ -37,7 +38,7 @@ div {
 /* p styles paragraph text */
 p {
   color: #A3AABE;
-  font-size: 12px;
+  font-size: 15px;
   margin-bottom: 8px;
 }
 
