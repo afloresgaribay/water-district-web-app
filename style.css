@@ -13,6 +13,8 @@ body {
 
 /* h1 styles the big title at the top */
 h1 {
+  font-weight: bold;
+  font-size: 45px;
   font-family: 'Dancing Script', cursive;
   border-bottom: 7px solid;
   padding-bottom: 10px;
