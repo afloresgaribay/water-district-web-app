@@ -27,6 +27,13 @@ margin-top: 30px;
 margin-bottom: 10px;
 }
 
+/* div styles grouped sections */
+div {
+  background-color: #FFFFFF;
+  border-radius: 25px;
+  padding: 30px;
+}
+
 /* p styles paragraph text */
 p {
   color: #A3AABE;
