@@ -50,9 +50,16 @@ table {
 
 /* th styles the header of the cells */
 th {
-  background-color: #0F2137;
+  background-color: #FFFFFF;
   color: #A3AABE;
   padding: 10px;
   text-align: left;
+}
+
+/*td styles the data cells */
+td {
+  padding: 10px;
+  border-bottom: 1px solid #A3AABE;
+  color: #A3AABE;
 }
 
