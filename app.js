@@ -4,7 +4,7 @@ document.getElementById("status-value").textContent = "Checked ✅";
 var today = new Date();
 var dateString = today.toLocaleDateString();
 
-document.getElementById("message").textContent = "✅ Meter checked on " + dateString + ".No issues found.";
+document.getElementById("message").textContent = "✅ Meter checked on " + dateString + ". No issues found.";
 document.querySelector("button").disabled = true;
 document.querySelector("button").textContent = "Check Complete";
 }
